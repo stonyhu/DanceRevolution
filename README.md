@@ -37,7 +37,7 @@ This repo is the PyTorch implementation of "[Dance Revolution: Long-Term Dance G
 
 Dance Revolution: Long-Term Dance Generation with Music via Curriculum Learning. arXiv:2006.06119, 2020. <br/>
 Ruozi Huang*, Huang Hu*, Wei Wu, Kei Sawada, Mi Zhang and Daxin Jiang. <br/>
-[[Project]](https://stonyhu.github.io/dancerev/) [[Paper]](https://openreview.net/pdf?id=xGZG2kS5bFk) [[Video]](https://pan.baidu.com/s/1rKFtrGWBG8BEjPQmDkJbJg?pwd=wnnn)
+[[Project]](https://stonyhu.github.io/dancerev/) [[Paper]](https://openreview.net/forum?id=xGZG2kS5bFk) [[Video]](https://pan.baidu.com/s/1rKFtrGWBG8BEjPQmDkJbJg?pwd=wnnn)
 
 ### Requirements
 
